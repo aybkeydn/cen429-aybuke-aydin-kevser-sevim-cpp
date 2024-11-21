@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\ComicBookManagerTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\ComicBookManagerTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\src\\ComicApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\src\\ComicApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\header\\ComicApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\header\\ComicApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\src\\ComicBookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\ComicBookManager\\src\\ComicBookManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\header\\ComicBookManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\ComicBookManager\\header\\ComicBookManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\ComicBookManager\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\tests\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\utility\\src\\mathUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp-cmake-ctest-template-main\\src\\utility\\src\\mathUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\CMakeLists.txt",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T21:19:56.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mathUtility.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\utility\\src\\mathUtility.cpp",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\utility\\src\\mathUtility.cpp",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\utility\\src\\mathUtility.cpp",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\utility\\src\\mathUtility.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T21:03:32.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComicBookManagerTest.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\ComicBookManagerTest.cpp",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\ComicBookManagerTest.cpp",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\ComicBookManagerTest.cpp",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\tests\\ComicBookManagertest\\ComicBookManagerTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T20:57:45.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComicApp.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\header\\ComicApp.h",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\header\\ComicApp.h",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\header\\ComicApp.h",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\header\\ComicApp.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T20:56:23.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComicApp.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\src\\ComicApp.cpp",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\src\\ComicApp.cpp",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\src\\ComicApp.cpp",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\src\\ComicApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T20:53:28.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComicBookManager.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\header\\ComicBookManager.h",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\ComicBookManager\\header\\ComicBookManager.h",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\header\\ComicBookManager.h",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\ComicBookManager\\header\\ComicBookManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T20:50:51.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComicBookManager.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\src\\ComicBookManager.cpp",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\ComicBookManager\\src\\ComicBookManager.cpp",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\src\\ComicBookManager.cpp",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\ComicBookManager\\src\\ComicBookManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T20:52:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\tests\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\tests\\CMakeLists.txt",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\tests\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T21:13:36.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\ComicBookManager\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManager\\CMakeLists.txt",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\ComicBookManager\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T21:18:26.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\CMakeLists.txt",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\src\\ComicBookManagerapp\\CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T21:19:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "cpp-cmake-ctest-template-main\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\cpp-cmake-ctest-template-main\\cpp-cmake-ctest-template-main\\CMakeLists.txt",
+              "RelativeToolTip": "cpp-cmake-ctest-template-main\\CMakeLists.txt",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T20:48:28.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
